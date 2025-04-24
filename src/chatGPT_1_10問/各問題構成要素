@@ -3,5 +3,8 @@ Q2.Scanner nextInt 除算 if ==
 Q3.Scanner nextInt if ><
 Q4.for ++
 Q5.for ++ +=
-Q6.
-Q10.Scanner nexiInt boolean if <= false Math.sqrt 除算 == for ++ if-else
+Q6.for ネスト ++ 乗算 print(\t)とprintln
+Q7.for 加算
+Q8.for int[] += (double) .length
+Q9.Scanner nextLine
+Q10.Scanner nexInt boolean if <= false Math.sqrt 除算 == for ++ if-else
