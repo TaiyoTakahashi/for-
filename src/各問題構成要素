@@ -22,16 +22,16 @@ Q19.int[] for .length --
 Q20.Scanner nextInt if-elseif-else <
 
 
-Q21
-Q22
-Q23
-Q24
-Q25
-Q26
-Q27
-Q28
-Q29
-Q30
+Q21."Hello,Java!"
+Q22.変数と文字列の組み合わせ
+Q23.double Math.PI
+Q24.四則演算
+Q25.for <= ++ if 除算 == 
+Q26.int[] 拡張for += 
+Q27.int[] 拡張for += .length
+Q28.String.length String.charAt
+Q29.メソッド呼出 for
+Q30.インスタンス化 メソッド呼出
 
 
 Q31
